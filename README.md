@@ -37,6 +37,3 @@ It contains **50,000 movie reviews**, labeled as positive or negative.
 
 The model achieves strong accuracy on IMDB reviews, effectively predicting sentiment from raw text data.
 
-## License
-
-This project is open-source and available under the MIT License.
