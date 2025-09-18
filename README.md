@@ -23,25 +23,14 @@ This project uses **TensorFlow and Keras** to build a deep learning model for se
 
 The IMDB dataset is available directly through **Keras datasets API**:
 
-```python
-from tensorflow.keras.datasets import imdb
-```
-
 It contains **50,000 movie reviews**, labeled as positive or negative.
 
 ## How to Run
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your-username/imdb-sentiment-analysis-tf-keras.git
-   cd imdb-sentiment-analysis-tf-keras
-   ```
 2. Install dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 3. Run the notebook or script to train and evaluate the model.
 
 ## Results
